@@ -9,4 +9,6 @@
 #bluecamo {
     background-color: blue;
     border-radius: 100%;
+    height: 5%;
+    width: 5%;
 }
