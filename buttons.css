@@ -6,6 +6,10 @@
     border: solid blue 3px;
 }
 
+* {
+    background: black;
+}
+
 #bluecamo {
     background-color: blue;
     border-radius: 100%;
