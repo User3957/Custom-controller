@@ -3,5 +3,6 @@
     left: 100%;
     top: 0px;
     min-height: 100%;
+    border: solid blue 3px;
 }
 
